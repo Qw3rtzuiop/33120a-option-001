@@ -11,3 +11,5 @@ Kicad 3d render pic of the rev. 1 PCB. I didnt test this revision.
 The PCB is mounted on the side. You need to drill holes into the metal to mount the PCB. The pics show the rev. 0 with two bodge wires. 
 
 ![installed pcb](pcb_1.jpg)
+
+Suitable isolated BNC jacks are Amphenol 112252.
